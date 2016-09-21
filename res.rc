@@ -1,0 +1,123 @@
+DICO ICON res\doodle.ico
+
+BK0 BITMAP res\background0.bmp
+BK1 BITMAP res\background1.bmp
+BK2 BITMAP res\background2.bmp
+
+BLUE BITMAP res\blue_block.bmp
+GREEN BITMAP res\green_block.bmp
+GRAY BITMAP res\gray_block.bmp
+WHITE BITMAP res\white_block.bmp
+BROWN0 BITMAP res\brown_block0.bmp
+BROWN1 BITMAP res\brown_block1.bmp
+BROWN2 BITMAP res\brown_block2.bmp
+BROWN3 BITMAP res\brown_block3.bmp
+TIME0 BITMAP res\time_block0.bmp
+TIME1 BITMAP res\time_block1.bmp
+TIME2 BITMAP res\time_block2.bmp
+TIME3 BITMAP res\time_block3.bmp
+TIME4 BITMAP res\time_block4.bmp
+TIME5 BITMAP res\time_block5.bmp
+TIME6 BITMAP res\time_block6.bmp
+TIME7 BITMAP res\time_block7.bmp
+
+DUCK00 BITMAP res\Doodle0.bmp
+DUCK01 BITMAP res\Doodle1.bmp
+DUCK10 BITMAP res\Doodle_heli00.bmp
+DUCK11 BITMAP res\Doodle_heli10.bmp
+DUCK20 BITMAP res\Doodle_heli01.bmp
+DUCK21 BITMAP res\Doodle_heli11.bmp
+DUCK30 BITMAP res\Doodle_rokect00.bmp
+DUCK31 BITMAP res\Doodle_rokect10.bmp
+DUCK40 BITMAP res\Doodle_rokect01.bmp
+DUCK41 BITMAP res\Doodle_rokect11.bmp
+ATTACK BITMAP res\Doodle2.bmp
+BULLET BITMAP res\bullet.bmp
+
+TPROP0 BITMAP res\rocket.bmp
+TPROP1 BITMAP res\helicopter.bmp
+TPROP2 BITMAP res\protection.bmp
+TPROP3 BITMAP res\spring_foot0.bmp
+TPROP4 BITMAP res\spring_foot1.bmp
+HPROP00 BITMAP res\jump0.bmp
+HPROP01 BITMAP res\jump1.bmp
+HPROP10 BITMAP res\spring0.bmp
+HPROP11 BITMAP res\spring1.bmp
+
+MONSTER0 BITMAP res\black_hole.bmp
+MONSTER1 BITMAP res\monster0.bmp
+MONSTER2 BITMAP res\monster1.bmp
+MONSTER3 BITMAP res\monster2.bmp
+MONSTER4 BITMAP res\monster3.bmp
+MONSTER5 BITMAP res\monster4.bmp
+MONSTER6 BITMAP res\monster5.bmp
+
+NUMBER0 BITMAP res\number0.bmp
+NUMBER1 BITMAP res\number1.bmp
+NUMBER2 BITMAP res\number2.bmp
+NUMBER3 BITMAP res\number3.bmp
+NUMBER4 BITMAP res\number4.bmp
+NUMBER5 BITMAP res\number5.bmp
+NUMBER6 BITMAP res\number6.bmp
+NUMBER7 BITMAP res\number7.bmp
+NUMBER8 BITMAP res\number8.bmp
+NUMBER9 BITMAP res\number9.bmp
+
+CBLUE BITMAP res\Cblue_block.bmp
+CGREEN BITMAP res\Cgreen_block.bmp
+CGRAY BITMAP res\Cgray_block.bmp
+CWHITE BITMAP res\Cwhite_block.bmp
+CBROWN0 BITMAP res\Cbrown_block0.bmp
+CBROWN1 BITMAP res\Cbrown_block1.bmp
+CBROWN2 BITMAP res\Cbrown_block2.bmp
+CBROWN3 BITMAP res\Cbrown_block3.bmp
+CTIME0 BITMAP res\Ctime_block0.bmp
+CTIME1 BITMAP res\Ctime_block1.bmp
+CTIME2 BITMAP res\Ctime_block2.bmp
+CTIME3 BITMAP res\Ctime_block3.bmp
+CTIME4 BITMAP res\Ctime_block4.bmp
+CTIME5 BITMAP res\Ctime_block5.bmp
+CTIME6 BITMAP res\Ctime_block6.bmp
+CTIME7 BITMAP res\Ctime_block7.bmp
+
+CDUCK00 BITMAP res\CDoodle0.bmp
+CDUCK01 BITMAP res\CDoodle1.bmp
+CDUCK10 BITMAP res\CDoodle_heli00.bmp
+CDUCK11 BITMAP res\CDoodle_heli10.bmp
+CDUCK20 BITMAP res\CDoodle_heli01.bmp
+CDUCK21 BITMAP res\CDoodle_heli11.bmp
+CDUCK30 BITMAP res\CDoodle_rokect00.bmp
+CDUCK31 BITMAP res\CDoodle_rokect10.bmp
+CDUCK40 BITMAP res\CDoodle_rokect01.bmp
+CDUCK41 BITMAP res\CDoodle_rokect11.bmp
+CATTACK BITMAP res\CDoodle2.bmp
+CBULLET BITMAP res\Cbullet.bmp
+
+CTPROP0 BITMAP res\Crocket.bmp
+CTPROP1 BITMAP res\Chelicopter.bmp
+CTPROP2 BITMAP res\Cprotection.bmp
+CTPROP3 BITMAP res\Cspring_foot0.bmp
+CTPROP4 BITMAP res\Cspring_foot1.bmp
+CHPROP00 BITMAP res\Cjump0.bmp
+CHPROP01 BITMAP res\Cjump1.bmp
+CHPROP10 BITMAP res\Cspring0.bmp
+CHPROP11 BITMAP res\Cspring1.bmp
+
+CNUMBER0 BITMAP res\Cnumber0.bmp
+CNUMBER1 BITMAP res\Cnumber1.bmp
+CNUMBER2 BITMAP res\Cnumber2.bmp
+CNUMBER3 BITMAP res\Cnumber3.bmp
+CNUMBER4 BITMAP res\Cnumber4.bmp
+CNUMBER5 BITMAP res\Cnumber5.bmp
+CNUMBER6 BITMAP res\Cnumber6.bmp
+CNUMBER7 BITMAP res\Cnumber7.bmp
+CNUMBER8 BITMAP res\Cnumber8.bmp
+CNUMBER9 BITMAP res\Cnumber9.bmp
+
+CMONSTER0 BITMAP res\Cblack_hole.bmp
+CMONSTER1 BITMAP res\Cmonster0.bmp
+CMONSTER2 BITMAP res\Cmonster1.bmp
+CMONSTER3 BITMAP res\Cmonster2.bmp
+CMONSTER4 BITMAP res\Cmonster3.bmp
+CMONSTER5 BITMAP res\Cmonster4.bmp
+CMONSTER6 BITMAP res\Cmonster5.bmp
